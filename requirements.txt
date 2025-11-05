@@ -1,0 +1,11 @@
+streamlit>=1.18
+pandas>=2.1
+numpy>=1.24,<2.0
+altair>=5.0
+python-dotenv>=1.0.0
+nltk>=3.8
+pillow>=9.0
+xlsxwriter>=3.0
+openpyxl>=3.0
+# Optional barcode support - may fail in hosted environments without libzbar
+# pyzbar>=0.1.8
