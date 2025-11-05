@@ -1,0 +1,6 @@
+Product,ReviewText,Rating,DefectLabel
+Widget A,"Great product, works as expected.",5,
+Widget B,Stopped working after a week.,1,electrical
+Gadget X,"Buen producto, altamente recomendable.",5,
+Gadget Y,La batería se calienta mucho.,2,battery
+Accessory Z,Decent value for money.,4,
